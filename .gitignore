@@ -9,3 +9,9 @@ build/
 .idea/
 *.iml
 *.log
+.pubspec.yaml
+.android
+.linux
+.ios
+.test
+.windows
