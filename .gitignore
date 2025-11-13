@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But allow lib/ and its contents
+!lib/
+!lib/**
+
+# Allow .gitignore itself
+!.gitignore
